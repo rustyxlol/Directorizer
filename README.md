@@ -22,7 +22,7 @@ Example:
     └── machine learning with python.pdf
 ```
 
-Running directory.py in `source_directory` with categories `docker,python` will create docker and python subdirectories and move files containing 'docker' and 'python' to their respective directories
+Running directorize.py with `source_directory` input and with categories `docker,python` input will create docker and python subdirectories and move files containing 'docker' and 'python' to their respective directories
 
 ```
 .
