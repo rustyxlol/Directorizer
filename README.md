@@ -26,7 +26,7 @@ Running directory.py in `source_directory` with categories `docker,python` will 
 
 ```
 .
-└── source/
+└── source_directory/
     ├── docker /
     │   └── dockerfundamentals.pdf
     └── python /
