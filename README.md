@@ -28,7 +28,7 @@ Running directory.py in `source_directory` with categories `docker,python` will 
 .
 └── source_directory/
     ├── docker /
-    │   └── dockerfundamentals.pdf
+    │   └── docker fundamentals.pdf
     └── python /
         ├── python fundamentals.pdf
         └── machine learning with python.pdf
